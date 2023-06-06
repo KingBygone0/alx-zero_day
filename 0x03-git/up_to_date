@@ -1,0 +1,9 @@
+git clone
+git push
+git pull
+git add test
+git commit -m
+git push origin main
+git branch
+cd 
+
